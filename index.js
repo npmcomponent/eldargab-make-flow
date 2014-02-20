@@ -1,4 +1,4 @@
-var parseArgs = require('parse-fn-args')
+var parseArgs = require('eldargab-parse-fn-args')
 
 module.exports = Flow
 

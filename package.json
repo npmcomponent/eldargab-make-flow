@@ -1,30 +1,13 @@
 {
-  "name": "make-flow",
-  "version": "0.6.0",
+  "name": "eldargab-make-flow",
   "description": "Make style control flow",
-  "scripts": {
-    "test": "mocha"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/eldargab/make-flow.git"
-  },
+  "version": "0.6.0",
   "keywords": [
     "async",
-    "make",
-    "control",
     "flow",
     "util"
   ],
   "dependencies": {
-    "parse-fn-args": "*"
-  },
-  "devDependencies": {
-    "test-log": "*",
-    "mocha": "*",
-    "should": "*",
-    "benchmark": "*"
-  },
-  "author": "Eldar Gabdullin <eldargab@gmail.com>",
-  "license": "MIT"
+    "eldargab-parse-fn-args": "git://github.com/npmcomponent/eldargab-parse-fn-args.git"
+  }
 }
